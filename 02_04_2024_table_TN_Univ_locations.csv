@@ -1,0 +1,196 @@
+,Unnamed: 0,Title,University,Link,Country,State,Location,Date
+0,0,One-half reflected entropy is not a lower bound for entanglement of purification,"Beth Israel Deaconess Medical Center, Boston",https://arxiv.org/pdf/2309.02506v2,USA,MA,"USA, MA",9.2023
+1,1,Computational supremacy in quantum simulation,Boston University,https://arxiv.org/pdf/2403.00910v1,USA,MA,"USA, MA",3.2024
+2,2,The Cytnx Library for Tensor Networks,Boston University,https://arxiv.org/pdf/2401.01921v1,USA,MA,"USA, MA",1.2024
+3,3,Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits,Brandeis University,https://arxiv.org/pdf/2401.17367v1,USA,MA,"USA, MA",1.2024
+4,4,One-half reflected entropy is not a lower bound for entanglement of purification,Brandies University,https://arxiv.org/pdf/2309.02506v2,USA,MA,"USA, MA",9.2023
+5,5,"Tensor network influence functionals in the continuous-time limit: connections to quantum embedding, bath discretization, and higher-order time propagation","California Institute of Technology, Pasadena",https://arxiv.org/pdf/2401.12460v1,USA,CA,"USA, CA",1.2024
+6,6,Fast and converged classical simulations of evidence for the utility of quantum computing before fault tolerance,"California Institute of Technology, Pasadena",https://arxiv.org/pdf/2308.05077v3,USA,CA,"USA, CA",8.2023
+7,7,The Thermodynamic Limit of Spin Systems on Random Graphs,"Center for Computational Quantum Physics, Flatiron Institute",https://arxiv.org/pdf/2303.00731v2,USA,NY,"USA, NY",3.2023
+8,8,"Tensor network influence functionals in the continuous-time limit: connections to quantum embedding, bath discretization, and higher-order time propagation","Columbia University, New York",https://arxiv.org/pdf/2401.12460v1,USA,NY,"USA, NY",1.2024
+9,9,Overlapping qubits from non-isometric maps and de Sitter tensor networks,"David Rittenhouse Laboratory, University of Pennsylvania",https://arxiv.org/pdf/2304.02673v3,USA,PA,"USA, PA",4.2023
+10,10,Quantum Circuit Simulation with Fast Tensor Decision Diagram,"Department of Electrical Engineering and Computer Science, University of Michigan",https://arxiv.org/pdf/2401.11362v1,USA,MI,"USA, MI",1.2024
+11,11,Exact Renormalization of Wave Functionals yields Continuous MERA,"Department of Physics and Astronomy, Purdue University",https://arxiv.org/pdf/2301.09669v2,USA,IN,"USA, IN",1.2023
+12,12,Emergent Holographic Forces from Tensor Networks and Criticality,"Department of Physics, Harvard University",https://arxiv.org/pdf/2401.13595v1,USA,MA,"USA, MA",1.2024
+13,13,Magic Can Enhance the Quantum Capacity of Channels,"Department of Physics, Harvard University",https://arxiv.org/pdf/2401.12105v1,USA,MA,"USA, MA",1.2024
+14,14,Link-area commutators in AdS${}_3$ area-networks,"Department of Physics, University of California, Santa Barbara",https://arxiv.org/pdf/2401.02487v1,USA,CA,"USA, CA",1.2024
+15,15,Exact Renormalization of Wave Functionals yields Continuous MERA,"Department of Physics, University of Illinois",https://arxiv.org/pdf/2301.09669v2,USA,IL,"USA, IL",1.2023
+16,16,Overlapping qubits from non-isometric maps and de Sitter tensor networks,"Department of Physics, Virginia Tech, Blacksburg",https://arxiv.org/pdf/2304.02673v3,USA,VA,"USA, VA",4.2023
+17,17,"Tensor network influence functionals in the continuous-time limit: connections to quantum embedding, bath discretization, and higher-order time propagation","Division of Engineering and Applied Science, California Institute of Technology, Pasadena",https://arxiv.org/pdf/2401.12460v1,USA,CA,"USA, CA",1.2024
+18,18,Computational complexity of isometric tensor network states,"Electrical and Computer Engineering, University of Washington, Seattle",https://arxiv.org/pdf/2402.07975v1,USA,WA,"USA, WA",2.2024
+19,19,Probing Off-diagonal Eigenstate Thermalization with Tensor Networks,"Electrical and Computer Engineering, University of Washington, Seattle",https://arxiv.org/pdf/2312.00736v2,USA,WA,"USA, WA",12.2023
+20,20,Confinement in the Transverse Field Ising model on the Heavy Hex lattice,Flatiron Institute,https://arxiv.org/pdf/2402.01558v2,USA,NY,"USA, NY",2.2024
+21,21,Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model,Flatiron Institute,https://arxiv.org/pdf/2311.17814v2,USA,NY,"USA, NY",11.2023
+22,22,Efficient tensor network simulation of IBM&#39;s Eagle kicked Ising experiment,Flatiron Institute,https://arxiv.org/pdf/2306.14887v3,USA,NY,"USA, NY",6.2023
+23,23,A Quantum-Classical Collaborative Training Architecture Based on Quantum State Fidelity,Fordham University,https://arxiv.org/pdf/2402.15333v1,USA,NY,"USA, NY",2.2024
+24,24,Sampling diverse near-optimal solutions via algorithmic quantum annealing,"Google, Mountain View, California",https://arxiv.org/pdf/2110.10560v3,USA,CA,"USA, CA",10.2021
+25,25,Overlapping qubits from non-isometric maps and de Sitter tensor networks,"Institute for Quantum Information and Matter California Institute of Technology, Pasadena",https://arxiv.org/pdf/2304.02673v3,USA,CA,"USA, CA",4.2023
+26,26,Overlapping qubits from non-isometric maps and de Sitter tensor networks,"Joint Center for Quantum Information and Computer Science, University of Maryland",https://arxiv.org/pdf/2304.02673v3,USA,MD,"USA, MD",4.2023
+27,27,Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits,"Laboratory for Physical Sciences, 8050 Greenmead Dr., College Park",https://arxiv.org/pdf/2401.17367v1,USA,MD,"USA, MD",1.2024
+28,28,Ground state energy and magnetization curve of a frustrated magnetic system from real-time evolution on a digital quantum processor,"Lawrence Berkeley National Laboratory, Berkeley, California",https://arxiv.org/pdf/2401.03015v1,USA,CA,"USA, CA",1.2024
+29,29,Sampling diverse near-optimal solutions via algorithmic quantum annealing,"LSIP, Hewlett Packard Labs, Milpitas, California",https://arxiv.org/pdf/2110.10560v3,USA,CA,"USA, CA",10.2021
+30,30,Background independent tensor networks,Massachusetts Institute,https://arxiv.org/pdf/2402.05910v1,USA,MA,"USA, MA",2.2024
+31,31,Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model,NASA Ames Research Center,https://arxiv.org/pdf/2311.17814v2,USA,CA,"USA, CA",11.2023
+32,32,"Effective quantum volume, fidelity and computational cost of noisy quantum processing experiments",NASA Ames Research Center,https://arxiv.org/pdf/2306.15970v2,USA,CA,"USA, CA",6.2023
+33,33,Confinement in the Transverse Field Ising model on the Heavy Hex lattice,New York University,https://arxiv.org/pdf/2402.01558v2,USA,NY,"USA, NY",2.2024
+34,34,Efficient tensor network simulation of IBM&#39;s Eagle kicked Ising experiment,New York University,https://arxiv.org/pdf/2306.14887v3,USA,NY,"USA, NY",6.2023
+35,35,Quantum 2D Liouville Path-Integral Is a Sum over Geometries in AdS$_3$ Einstein Gravity,"Northeastern University, Boston",https://arxiv.org/pdf/2403.03179v1,USA,MA,"USA, MA",3.2024
+36,36,One-half reflected entropy is not a lower bound for entanglement of purification,"Northeastern University, Boston",https://arxiv.org/pdf/2309.02506v2,USA,MA,"USA, MA",9.2023
+37,37,Environmentally driven symmetry-breaking quenches dual fluorescence in proflavine,Oregon State University,https://arxiv.org/pdf/2403.03316v1,USA,OR,"USA, OR",3.2024
+38,38,Application of Quantum Tensor Networks for Protein Classification,Pennsylvania State University State College,https://arxiv.org/pdf/2403.06890v1,USA,PA,"USA, PA",3.2024
+39,39,Environmentally driven symmetry-breaking quenches dual fluorescence in proflavine,San Diego State University,https://arxiv.org/pdf/2403.03316v1,USA,CA,"USA, CA",3.2024
+40,40,Tensor Renormalization Group for fermions,The University of Iowa,https://arxiv.org/pdf/2401.08542v1,USA,IA,"USA, IA",1.2024
+41,41,One-half reflected entropy is not a lower bound for entanglement of purification,The University of Texas at Austin,https://arxiv.org/pdf/2309.02506v2,USA,TX,"USA, TX",9.2023
+42,42,Spectral Gaps of 2D and 3D Many-body Quantum Systems in the Thermodynamic Limit,Tulane University,https://arxiv.org/pdf/2401.14368v1,USA,LA,"USA, LA",1.2024
+43,43,Detecting Measurement-Induced Entanglement Transitions With Unitary Mirror Circuits,University of Maryland,https://arxiv.org/pdf/2401.17367v1,USA,MD,"USA, MD",1.2024
+44,0,Recursive Quantum Relaxation for Combinatorial Optimization Problems,The University of Queensland,https://arxiv.org/pdf/2403.02045v1,Australia,,Australia,3.2024
+45,1,Emergent (2+1)D topological orders from iterative (1+1)D gauging,"University of Vienna, Faculty of Mathematics",https://arxiv.org/pdf/2403.07575v1,Austria,,Austria,3.2024
+46,2,Finite-Entanglement Scaling of 2D Metals,"Department of Physics, Ghent University",https://arxiv.org/pdf/2305.02091v2,Belgium,,Belgium,5.2023
+47,3,Mutual information scrambling in Ising spin chain,Vrije Universiteit Brussel,https://arxiv.org/pdf/2402.13558v1,Belgium,,Belgium,2.2024
+48,4,Liouvillian recursion method for the electronic Green&#39;s function,"AlgoLab Quantique, Institut Quantique, Université de Sherbrooke",https://arxiv.org/pdf/2401.02527v1,Canada,,Canada,1.2024
+49,5,Computational supremacy in quantum simulation,"D-Wave Quantum Inc., Burnaby, British Columbia",https://arxiv.org/pdf/2403.00910v1,Canada,,Canada,3.2024
+50,6,Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations,"Department of Physics and Astronomy, University of Waterloo",https://arxiv.org/pdf/2403.05828v1,Canada,,Canada,3.2024
+51,7,One-half reflected entropy is not a lower bound for entanglement of purification,"Department of Physics and Centre for Quantum Information and Quantum Control, University of Toronto",https://arxiv.org/pdf/2309.02506v2,Canada,,Canada,9.2023
+52,8,Computational supremacy in quantum simulation,"Department of Physics, Simon Fraser University",https://arxiv.org/pdf/2403.00910v1,Canada,,Canada,3.2024
+53,9,The Cytnx Library for Tensor Networks,Frontier Center,https://arxiv.org/pdf/2401.01921v1,Canada,,Canada,1.2024
+54,10,CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks,"Multiverse Computing, Centre for Social Innovation",https://arxiv.org/pdf/2401.14109v1,Canada,,Canada,1.2024
+55,11,Computational supremacy in quantum simulation,Perimeter Institute for Theoretical Physics,https://arxiv.org/pdf/2403.00910v1,Canada,,Canada,3.2024
+56,12,Non-Abelian hyperbolic band theory from supercells,"Theoretical Physics Institute, University of Alberta",https://arxiv.org/pdf/2305.04945v2,Canada,,Canada,5.2023
+57,13,A quatum inspired neural network for geometric modeling,Universite de Montreal,https://arxiv.org/pdf/2401.01801v2,Canada,,Canada,1.2024
+58,14,Computational supremacy in quantum simulation,University of British Columbia,https://arxiv.org/pdf/2403.00910v1,Canada,,Canada,3.2024
+59,15,Computational supremacy in quantum simulation,University of Waterloo,https://arxiv.org/pdf/2403.00910v1,Canada,,Canada,3.2024
+60,16,Computational supremacy in quantum simulation,"Vector Institute, MaRS Centre, Toronto",https://arxiv.org/pdf/2403.00910v1,Canada,,Canada,3.2024
+61,17,One-half reflected entropy is not a lower bound for entanglement of purification,"Vector Institute, MaRS Centre, Toronto, Ontario",https://arxiv.org/pdf/2309.02506v2,Canada,,Canada,9.2023
+62,18,Link-area commutators in AdS${}_3$ area-networks,CAS Key Laboratory of Theoretical Physics,https://arxiv.org/pdf/2401.02487v1,China,,China,1.2024
+63,19,Ultrafast Excited-State Energy Transfer in Phenylene Ethynylene Dendrimer: Quantum Dynamics with Tensor Network Method,China and University of Chinese Academy of Sciences,https://arxiv.org/pdf/2401.08259v1,China,,China,1.2024
+64,20,A quatum inspired neural network for geometric modeling,Chinese Academy of Sciences Huawei Technologies Ltd,https://arxiv.org/pdf/2401.01801v2,China,,China,1.2024
+65,21,Validating quantum-supremacy experiments with exact and fast tensor network contraction,Department of Physics and Synergetic Innovation Center,https://arxiv.org/pdf/2212.04749v2,China,,China,12.2022
+66,22,Many-body computing on Field Programmable Gate Arrays,East China Normal University,https://arxiv.org/pdf/2402.06415v1,China,,China,2.2024
+67,23,Higher-order topological phases in crystalline and non-crystalline systems: a review,Hong Kong University,https://arxiv.org/pdf/2309.03688v3,China,,China,9.2023
+68,24,A quatum inspired neural network for geometric modeling,Huawei Technologies Ltd,https://arxiv.org/pdf/2401.01801v2,China,,China,1.2024
+69,25,Grassmann Time-Evolving Matrix Product Operators for Quantum Impurity Models,Hunan Normal University,https://arxiv.org/pdf/2308.05279v3,China,,China,8.2023
+70,26,Validating quantum-supremacy experiments with exact and fast tensor network contraction,Hunan Normal University,https://arxiv.org/pdf/2212.04749v2,China,,China,12.2022
+71,27,Validating quantum-supremacy experiments with exact and fast tensor network contraction,Information Engineering University,https://arxiv.org/pdf/2212.04749v2,China,,China,12.2022
+72,28,Link-area commutators in AdS${}_3$ area-networks,"School of Physical Sciences, University of Chinese Academy of Sciences, Beijing",https://arxiv.org/pdf/2401.02487v1,China,,China,1.2024
+73,29,Ultrafast Excited-State Energy Transfer in Phenylene Ethynylene Dendrimer: Quantum Dynamics with Tensor Network Method,SCNU Environmental Research Institute,https://arxiv.org/pdf/2401.08259v1,China,,China,1.2024
+74,30,Grassmann Time-Evolving Matrix Product Operators for Quantum Impurity Models,Sichuan Normal University,https://arxiv.org/pdf/2308.05279v3,China,,China,8.2023
+75,31,Ultrafast Excited-State Energy Transfer in Phenylene Ethynylene Dendrimer: Quantum Dynamics with Tensor Network Method,South China Normal University,https://arxiv.org/pdf/2401.08259v1,China,,China,1.2024
+76,32,Quantum 2D Liouville Path-Integral Is a Sum over Geometries in AdS$_3$ Einstein Gravity,South China University,https://arxiv.org/pdf/2403.03179v1,China,,China,3.2024
+77,33,Quantum 2D Liouville Path-Integral Is a Sum over Geometries in AdS$_3$ Einstein Gravity,Tsinghua University,https://arxiv.org/pdf/2403.03179v1,China,,China,3.2024
+78,34,Higher-order topological phases in crystalline and non-crystalline systems: a review,Tsinghua University,https://arxiv.org/pdf/2309.03688v3,China,,China,9.2023
+79,35,Validating quantum-supremacy experiments with exact and fast tensor network contraction,Tsinghua University,https://arxiv.org/pdf/2212.04749v2,China,,China,12.2022
+80,36,Quantum 2D Liouville Path-Integral Is a Sum over Geometries in AdS$_3$ Einstein Gravity,Yanqi Lake Beijing Institute,https://arxiv.org/pdf/2403.03179v1,China,,China,3.2024
+81,37,Quantum 2D Liouville Path-Integral Is a Sum over Geometries in AdS$_3$ Einstein Gravity,Yau Mathematical Sciences Center,https://arxiv.org/pdf/2403.03179v1,China,,China,3.2024
+82,38,Numerically efficient unitary evolution for Hamiltonians beyond nearest-neighbors,Institut Ruđer Bošković,https://arxiv.org/pdf/2402.05198v1,Croatia,,Croatia,2.2024
+83,39,A joint optimization approach of parameterized quantum circuits with a tensor network,"Molecular Quantum Solutions ApS, Denmark",https://arxiv.org/pdf/2402.12105v1,Denmark,,Denmark,2.2024
+84,40,Real-time scattering in the lattice Schwinger model,"Blackett Laboratory, Imperial College London",https://arxiv.org/pdf/2402.18429v1,England,,England,2.2024
+85,41,Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations,"Centre for Quantum Engineering, Science and Technology (QuEST), Imperial College London",https://arxiv.org/pdf/2403.05828v1,England,,England,3.2024
+86,42,Conditional Independence of 1D Gibbs States with Applications to Efficient Learning,"Department of Applied Mathematics and Theoretical Physics, University of Cambridge",https://arxiv.org/pdf/2402.18500v1,England,,England,2.2024
+87,43,Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations,"Department of Materials, Imperial College London",https://arxiv.org/pdf/2403.05828v1,England,,England,3.2024
+88,44,The Thermodynamic Limit of Spin Systems on Random Graphs,"Department of Physics, University of Oxford",https://arxiv.org/pdf/2303.00731v2,England,,England,3.2023
+89,45,Combining Matrix Product States and Noisy Quantum Computers for Quantum Simulation,"National Physical Laboratory, Teddington",https://arxiv.org/pdf/2305.19231v2,England,,England,5.2023
+90,46,Finite-Entanglement Scaling of 2D Metals,"Rudolf Peierls Centre for Theoretical Physics, University of Oxford",https://arxiv.org/pdf/2305.02091v2,England,,England,5.2023
+91,47,From Non-Markovian Dissipation to Spatiotemporal Control of Quantum Nanodevices,"SUPA, School of Physics and Astronomy, University of St Andrews",https://arxiv.org/pdf/2205.11247v5,England,,England,5.2022
+92,48,Tensor network noise characterization for near-term quantum computers,"Algorithmiq Ltd, Kanavakatu, Finland",https://arxiv.org/pdf/2402.08556v1,Finland,,Finland,2.2024
+93,49,Tensor network noise characterization for near-term quantum computers,University of Helsinki,https://arxiv.org/pdf/2402.08556v1,Finland,,Finland,2.2024
+94,50,Enabling large-depth simulation of noisy quantum circuits with positive tensor networks,"Eviden Quantum Laboratory, Les Clayes-sous-Bois",https://arxiv.org/pdf/2403.00152v1,France,,France,3.2024
+95,51,Combining Matrix Product States and Noisy Quantum Computers for Quantum Simulation,"Eviden Quantum Laboratory, Les Clayes-sous-Bois",https://arxiv.org/pdf/2305.19231v2,France,,France,5.2023
+96,52,3D Tensor Renormalisation Group at High Temperatures,Institut des Hautes Etudes Scientifiques,https://arxiv.org/pdf/2401.04229v1,France,,France,1.2024
+97,53,From Non-Markovian Dissipation to Spatiotemporal Control of Quantum Nanodevices,"Sorbonne Université, CNRS, Institut des NanoSciences de Paris",https://arxiv.org/pdf/2205.11247v5,France,,France,5.2022
+98,54,Combining Matrix Product States and Noisy Quantum Computers for Quantum Simulation,Universit ́e Paris-Saclay,https://arxiv.org/pdf/2305.19231v2,France,,France,5.2023
+99,55,Vertex-minor universal graphs for generating entangled quantum subsystems,Université de Lorraine,https://arxiv.org/pdf/2402.06260v2,France,,France,2.2024
+100,56,Vertex-minor universal graphs for generating entangled quantum subsystems,Université de Lyon,https://arxiv.org/pdf/2402.06260v2,France,,France,2.2024
+101,57,Vertex-minor universal graphs for generating entangled quantum subsystems,Université Grenoble Alpes,https://arxiv.org/pdf/2402.06260v2,France,,France,2.2024
+102,58,Piecewise Polynomial Tensor Network Quantum Feature Encoding,Department of Flow and Material Simulation Fraunhofer ITWM,https://arxiv.org/pdf/2402.07671v2,Germany,,Germany,2.2024
+103,59,Mutual information scrambling in Ising spin chain,"Department of Mathematical Sciences, University of Copenhagen",https://arxiv.org/pdf/2402.13558v1,Germany,,Germany,2.2024
+104,60,Computational complexity of isometric tensor network states,"Department of Mathematical Sciences, University of Copenhagen",https://arxiv.org/pdf/2402.07975v1,Germany,,Germany,2.2024
+105,61,Overlapping qubits from non-isometric maps and de Sitter tensor networks,Department of Physics Freie Universita ̈t Berlin,https://arxiv.org/pdf/2304.02673v3,Germany,,Germany,4.2023
+106,62,Real-time scattering in the lattice Schwinger model,"Department of Physics TQM, Technische Universitat Munchen",https://arxiv.org/pdf/2402.18429v1,Germany,,Germany,2.2024
+107,63,Conditional Independence of 1D Gibbs States with Applications to Efficient Learning,"Fachbereich Mathematik, Universita ̈t Tubingen",https://arxiv.org/pdf/2402.18500v1,Germany,,Germany,2.2024
+108,64,Sampling diverse near-optimal solutions via algorithmic quantum annealing,"Google, Munich",https://arxiv.org/pdf/2110.10560v3,Germany,,Germany,10.2021
+109,65,Optimal sampling of tensor networks targeting wave function&#39;s fast decaying tails,"Institute for Complex Quantum Systems, Ulm University",https://arxiv.org/pdf/2401.10330v1,Germany,,Germany,1.2024
+110,66,Geometrically Taming Dynamical Entanglement Growth in Purified Quantum States,"Institute of Theoretical Physics, Technische Universit ̈at Dresden",https://arxiv.org/pdf/2309.07961v2,Germany,,Germany,9.2023
+111,67,Computational supremacy in quantum simulation,Max Planck Institute for Solid State Research,https://arxiv.org/pdf/2403.00910v1,Germany,,Germany,3.2024
+112,68,Efficient Representation of Minimally Entangled Typical Thermal States in two dimensions via Projected Entangled Pair States,Max Planck Institute for the Physics of Complex Systems,https://arxiv.org/pdf/2310.08533v2,Germany,,Germany,10.2023
+113,69,Variational Neural and Tensor Network Approximations of Thermal States,Max-Planck-Institut fu ̈r Quantenoptik,https://arxiv.org/pdf/2401.14243v1,Germany,,Germany,1.2024
+114,70,Real-time scattering in the lattice Schwinger model,Max-Planck-Institut fur Quantenoptik,https://arxiv.org/pdf/2402.18429v1,Germany,,Germany,2.2024
+115,71,Probing Off-diagonal Eigenstate Thermalization with Tensor Networks,Max-Planck-Institut für Quantenoptik,https://arxiv.org/pdf/2312.00736v2,Germany,,Germany,12.2023
+116,72,Real-time scattering in the lattice Schwinger model,Munich Center for Quantum Science and Technology,https://arxiv.org/pdf/2402.18429v1,Germany,,Germany,2.2024
+117,73,Probing Off-diagonal Eigenstate Thermalization with Tensor Networks,Munich Center for Quantum Science and Technology,https://arxiv.org/pdf/2312.00736v2,Germany,,Germany,12.2023
+118,74,Variational Neural and Tensor Network Approximations of Thermal States,Munich Center for Quantum Science and Technology (MCQST),https://arxiv.org/pdf/2401.14243v1,Germany,,Germany,1.2024
+119,75,From Non-Markovian Dissipation to Spatiotemporal Control of Quantum Nanodevices,"nstitut für Theoretische Physik und IQST, Albert-Einstein-Allee",https://arxiv.org/pdf/2205.11247v5,Germany,,Germany,5.2022
+120,76,Variational Neural and Tensor Network Approximations of Thermal States,planqc GmbH,https://arxiv.org/pdf/2401.14243v1,Germany,,Germany,1.2024
+121,77,The non-collinear phase of the antiferromagnetic sawtooth chain,"Technische Universitat Braunschweig, Institut fur Mathematische Physik",https://arxiv.org/pdf/2402.05759v1,Germany,,Germany,2.2024
+122,78,Numerically efficient unitary evolution for Hamiltonians beyond nearest-neighbors,University of Strasbourg and CNRS,https://arxiv.org/pdf/2402.05198v1,Germany,,Germany,2.2024
+123,79,Geometrically Taming Dynamical Entanglement Growth in Purified Quantum States,Wu ̈rzburg-Dresden Cluster of Excellence,https://arxiv.org/pdf/2309.07961v2,Germany,,Germany,9.2023
+124,80,Overlapping qubits from non-isometric maps and de Sitter tensor networks,Wigner Research Centre for Physics of the Hungarian Academy of Sciences,https://arxiv.org/pdf/2304.02673v3,Hungary,,Hungary,4.2023
+125,81,Mutual information scrambling in Ising spin chain,"School of Physics, University of Hyderabad",https://arxiv.org/pdf/2402.13558v1,India,,India,2.2024
+126,82,Superselection-Resolved Entanglement in Lattice Gauge Theories: A Tensor Network Approach,Racah Institute,https://arxiv.org/pdf/2401.01942v1,Israel,,Israel,1.2024
+127,83,Superselection-Resolved Entanglement in Lattice Gauge Theories: A Tensor Network Approach,Tel-Aviv University,https://arxiv.org/pdf/2401.01942v1,Israel,,Israel,1.2024
+128,84,Superselection-Resolved Entanglement in Lattice Gauge Theories: A Tensor Network Approach,The Hebrew University,https://arxiv.org/pdf/2401.01942v1,Israel,,Israel,1.2024
+129,85,Optimal sampling of tensor networks targeting wave function&#39;s fast decaying tails,Dipartimento di Fisica e Astronomia,https://arxiv.org/pdf/2401.10330v1,Italy,,Italy,1.2024
+130,86,Sampling diverse near-optimal solutions via algorithmic quantum annealing,"Google Quantum AI, Venice",https://arxiv.org/pdf/2110.10560v3,Italy,,Italy,10.2021
+131,87,Optimal sampling of tensor networks targeting wave function&#39;s fast decaying tails,"INFN, Sezione di Padova",https://arxiv.org/pdf/2401.10330v1,Italy,,Italy,1.2024
+132,88,(2+1)D SU(2) Yang-Mills Lattice Gauge Theory at finite density via tensor networks,Padua Quantum Technologies Research Center,https://arxiv.org/pdf/2307.09396v2,Italy,,Italy,7.2023
+133,89,Optimal sampling of tensor networks targeting wave function&#39;s fast decaying tails,"Research Center, Università degli Studi di Padova",https://arxiv.org/pdf/2401.10330v1,Italy,,Italy,1.2024
+134,90,State of practice: evaluating GPU performance of state vector and tensor network methods,University of Trento,https://arxiv.org/pdf/2401.06188v1,Italy,,Italy,1.2024
+135,91,Tensor Renormalization Group for fermions,"Center for Computational Sciences, University of Tsukuba",https://arxiv.org/pdf/2401.08542v1,Japan,,Japan,1.2024
+136,92,Lorentzian holographic gravity and the time-energy uncertainty principle,"Graduate School of Human and Environmental Studies, Kyoto Universi",https://arxiv.org/pdf/2401.17458v1,Japan,,Japan,1.2024
+137,93,Tensor Renormalization Group for fermions,"Graduate School of Science, The University of Tokyo",https://arxiv.org/pdf/2401.08542v1,Japan,,Japan,1.2024
+138,94,Tensor network simulations for non-orientable surfaces,"Institute for Solid State Physics, University of Tokyo",https://arxiv.org/pdf/2402.15507v2,Japan,,Japan,2.2024
+139,95,Three ways of calculating mass spectra for the 2-flavor Schwinger model in the Hamiltonian formalism,Kyoto University,https://arxiv.org/pdf/2401.07556v1,Japan,,Japan,1.2024
+140,96,Renormalization group flow and fixed-point in tensor network representations,The University of Tokyo,https://arxiv.org/pdf/2401.18068v1,Japan,,Japan,1.2024
+141,97,Three ways of calculating mass spectra for the 2-flavor Schwinger model in the Hamiltonian formalism,Yukawa Institute,https://arxiv.org/pdf/2401.07556v1,Japan,,Japan,1.2024
+142,98,Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model,The Graduate Center,https://arxiv.org/pdf/2311.17814v2,NaM,,NaM,11.2023
+143,99,Exponential acceleration of macroscopic quantum tunneling in a Floquet Ising model,College,https://arxiv.org/pdf/2311.17814v2,,,,11.2023
+144,100,Ultrafast Excited-State Energy Transfer in Phenylene Ethynylene Dendrimer: Quantum Dynamics with Tensor Network Method,Beijing National Laboratory for Molecular Sciences,https://arxiv.org/pdf/2401.08259v1,China,,China,1.2024
+145,101,Ultrafast Excited-State Energy Transfer in Phenylene Ethynylene Dendrimer: Quantum Dynamics with Tensor Network Method,"Molecular Sciences, Institute of Chemistry, Chinese Academy of Sciences",https://arxiv.org/pdf/2401.08259v1,China,,China,1.2024
+146,102,The Cytnx Library for Tensor Networks,Boston University,https://arxiv.org/pdf/2401.01921v1,USA,MA,"USA, MA",1.2024
+147,103,Validating quantum-supremacy experiments with exact and fast tensor network contraction,"National Research Center of Parallel Computer Engineering and Technology, Beijing",https://arxiv.org/pdf/2212.04749v2,China,,China,12.2022
+148,104,Validating quantum-supremacy experiments with exact and fast tensor network contraction,National Supercomputing Center in Wuxi,https://arxiv.org/pdf/2212.04749v2,China,,China,12.2022
+149,105,Comment on “Controlled Bond Expansion for Density Matrix Renormalization Group Ground State Search at Single-Site Costs”,"School of Mathematics and Physics, The University of Queensland",https://arxiv.org/pdf/2403.00562v1,Australia,,Australia,3.2024
+150,106,Quantum Computing and Tensor Networks for Laminate Design: A Novel Approach to Stacking Sequence Retrieval,Delft University of Technology,https://arxiv.org/pdf/2402.06455v1,Netherlands,,Netherlands,2.2024
+151,107,Light-induced phase transitions in vanadium dioxide: a tensor network study,Adam Mickiewicz University,https://arxiv.org/pdf/2402.01247v2,Poland,,Poland,2.2024
+152,108,Efficient Representation of Minimally Entangled Typical Thermal States in two dimensions via Projected Entangled Pair States,"agiellonian University, Mark Kac Center for Complex Systems Research",https://arxiv.org/pdf/2310.08533v2,Poland,,Poland,10.2023
+153,109,Quantum metrology using quantum combs and tensor network formalism,"Center for Theoretical Physics, Polish Academy of Sciences, Al. Lotnikow",https://arxiv.org/pdf/2403.04854v1,Poland,,Poland,3.2024
+154,110,Efficient Representation of Minimally Entangled Typical Thermal States in two dimensions via Projected Entangled Pair States,"Institute of Theoretical Physics, ul. Lojasiewicza",https://arxiv.org/pdf/2310.08533v2,Poland,,Poland,10.2023
+155,111,Computational supremacy in quantum simulation,"Jagiellonian University, Institute of Theoretical Physics",https://arxiv.org/pdf/2403.00910v1,Poland,,Poland,3.2024
+156,112,Sampling diverse near-optimal solutions via algorithmic quantum annealing,"Jagiellonian University, Institute of Theoretical Physics",https://arxiv.org/pdf/2110.10560v3,Poland,,Poland,10.2021
+157,113,Quantum metrology using quantum combs and tensor network formalism,University of Warsaw,https://arxiv.org/pdf/2403.04854v1,Poland,,Poland,3.2024
+158,114,Grassmann Time-Evolving Matrix Product Operators for Quantum Impurity Models,Singapore University,https://arxiv.org/pdf/2308.05279v3,Singapore,,Singapore,8.2023
+159,115,CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks,Barcelona Institute of Science and Technology,https://arxiv.org/pdf/2401.14109v1,Spain,,Spain,1.2024
+160,116,Stabilizer Tensor Networks: universal quantum simulator on a basis of stabilizer states,Barcelona Supercomputing Center,https://arxiv.org/pdf/2403.08724v1,Spain,,Spain,3.2024
+161,117,CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks,Catalan Institute of Nanoscience and Nanotechnology,https://arxiv.org/pdf/2401.14109v1,Spain,,Spain,1.2024
+162,118,Conditional Independence of 1D Gibbs States with Applications to Efficient Learning,"Departamento de An ́alisis Matema ́tico y Matema ́tica Aplicada, Universidad Complutense de Madrid",https://arxiv.org/pdf/2402.18500v1,Spain,,Spain,2.2024
+163,119,Light-induced phase transitions in vanadium dioxide: a tensor network study,DIPC - Donostia International Physics Center,https://arxiv.org/pdf/2402.01247v2,Spain,,Spain,2.2024
+164,120,Computing exact moments of local random quantum circuits via tensor networks,Donostia International Physics Center,https://arxiv.org/pdf/2403.01706v1,Spain,,Spain,3.2024
+165,121,Tensor Networks for Explainable Machine Learning in Cybersecurity,Donostia International Physics Center,https://arxiv.org/pdf/2401.00867v2,Spain,,Spain,1.2024
+166,122,Variational Quantum and Quantum-Inspired Clustering,Donostia International Physics Center,https://arxiv.org/pdf/2206.09893v2,Spain,,Spain,6.2022
+167,123,CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks,"Donostia International Physics Center, Paseo Manuel de Lardizabal",https://arxiv.org/pdf/2401.14109v1,Spain,,Spain,1.2024
+168,124,CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks,Ikerbasque Foundation for Science,https://arxiv.org/pdf/2401.14109v1,Spain,,Spain,1.2024
+169,125,Tensor Networks for Explainable Machine Learning in Cybersecurity,Ikerbasque Foundation for Science,https://arxiv.org/pdf/2401.00867v2,Spain,,Spain,1.2024
+170,126,Conditional Independence of 1D Gibbs States with Applications to Efficient Learning,Instituto de F ́ısica Teo ́rica UAM/CSIC,https://arxiv.org/pdf/2402.18500v1,Spain,,Spain,2.2024
+171,127,CompactifAI: Extreme Compression of Large Language Models using Quantum-Inspired Tensor Networks,"Multiverse Computing, Parque Cientifico y Tecnolo ́gico de Gipuzkua",https://arxiv.org/pdf/2401.14109v1,Spain,,Spain,1.2024
+172,128,Tensor Networks for Explainable Machine Learning in Cybersecurity,"Multiverse Computing, Paseo de Miramon",https://arxiv.org/pdf/2401.00867v2,Spain,,Spain,1.2024
+173,129,Quantized Thouless pumps protected by interactions in dimerized Rydberg tweezer arrays,The Barcelona Institute,https://arxiv.org/pdf/2402.09311v1,Spain,,Spain,2.2024
+174,130,Light-induced phase transitions in vanadium dioxide: a tensor network study,The Barcelona Institute,https://arxiv.org/pdf/2402.01247v2,Spain,,Spain,2.2024
+175,131,Quantum metrology using quantum combs and tensor network formalism,Universidad Complutense de Madrid,https://arxiv.org/pdf/2403.04854v1,Spain,,Spain,3.2024
+176,132,Tensor Networks for Explainable Machine Learning in Cybersecurity,University of Navarra,https://arxiv.org/pdf/2401.00867v2,Spain,,Spain,1.2024
+177,133,Non-Abelian hyperbolic band theory from supercells,"Condensed Matter Theory Group, Paul Scherrer Institute",https://arxiv.org/pdf/2305.04945v2,Switzerland,,Switzerland,5.2023
+178,134,Non-Abelian hyperbolic band theory from supercells,"Department of Physics, University of Zurich",https://arxiv.org/pdf/2305.04945v2,Switzerland,,Switzerland,5.2023
+179,135,Sampling diverse near-optimal solutions via algorithmic quantum annealing,"Google Quantum AI, Zurich",https://arxiv.org/pdf/2110.10560v3,Switzerland,,Switzerland,10.2021
+180,136,Computational supremacy in quantum simulation,"Institute for Theoretical Physics, ETH Zurich",https://arxiv.org/pdf/2403.00910v1,Switzerland,,Switzerland,3.2024
+181,137,Non-Abelian hyperbolic band theory from supercells,"Institute for Theoretical Physics, ETH Zurich",https://arxiv.org/pdf/2305.04945v2,Switzerland,,Switzerland,5.2023
+182,138,Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations,"Graduate Institute of Applied Physics, National Taiwan University",https://arxiv.org/pdf/2403.05828v1,Taiwan,,Taiwan,3.2024
+183,139,The Cytnx Library for Tensor Networks,National Sun Yat-Sen University,https://arxiv.org/pdf/2401.01921v1,Taiwan,,Taiwan,1.2024
+184,140,The Cytnx Library for Tensor Networks,National Taiwan University,https://arxiv.org/pdf/2401.01921v1,Taiwan,,Taiwan,1.2024
+185,141,Recursive Quantum Relaxation for Combinatorial Optimization Problems,National Tsing Hua University,https://arxiv.org/pdf/2403.02045v1,Taiwan,,Taiwan,3.2024
+186,142,Comment on “Controlled Bond Expansion for Density Matrix Renormalization Group Ground State Search at Single-Site Costs”,National Tsing Hua University,https://arxiv.org/pdf/2403.00562v1,Taiwan,,Taiwan,3.2024
+187,143,The Cytnx Library for Tensor Networks,National Tsing Hua University,https://arxiv.org/pdf/2401.01921v1,Taiwan,,Taiwan,1.2024
+188,144,The Cytnx Library for Tensor Networks,National Yang Ming Chiao Tung University,https://arxiv.org/pdf/2401.01921v1,Taiwan,,Taiwan,1.2024
+189,145,Quantum-HPC Framework with multi-GPU-Enabled Hybrid Quantum-Classical Workflow: Applications in Quantum Simulations,"NVidia AI Technology Center (NVAITC), NVIDIA, Taiwan",https://arxiv.org/pdf/2403.05828v1,Taiwan,,Taiwan,3.2024
+190,146,Quantum metrology using quantum combs and tensor network formalism,"Quantum Research Center, Technology Innovation Institute, Abu Dhabi",https://arxiv.org/pdf/2403.04854v1,UAE,,UAE,3.2024
+191,147,Spectral Gaps of 2D and 3D Many-body Quantum Systems in the Thermodynamic Limit,Akhiezer Institute,https://arxiv.org/pdf/2401.14368v1,Ukraine,,Ukraine,1.2024
+192,148,Corner transfer matrix renormalization group approach in the zoo of Archimedean lattices,Akhiezer Institute,https://arxiv.org/pdf/2401.07274v1,Ukraine,,Ukraine,1.2024
+193,149,Spectral Gaps of 2D and 3D Many-body Quantum Systems in the Thermodynamic Limit,Karazin Kharkiv National University,https://arxiv.org/pdf/2401.14368v1,Ukraine,,Ukraine,1.2024
+194,150,Corner transfer matrix renormalization group approach in the zoo of Archimedean lattices,Karazin Kharkiv National University,https://arxiv.org/pdf/2401.07274v1,Ukraine,,Ukraine,1.2024
