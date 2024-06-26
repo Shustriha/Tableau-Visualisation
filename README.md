@@ -1,4 +1,5 @@
 # Tableau Visualisation
+## Check out my Tableau visualization titled "Arxiv Articles Overview" at public.tableau.com. 
 
 ## About:
  This work was in continuation of Python-Scrapper project. Information about physics publications  
@@ -25,4 +26,4 @@ files used for visualisation ara provided. Overall nubmer of articles used in th
  Given that my master’s thesis is titled "Tensor Networks as Probes of Near Horizon Geometry,"   
  you can imagine my excitement about discovering that tensor networks are a hot topic worldwide!
  
-### Check out my Tableau visualization titled "Arxiv Articles Overview" at public.tableau.com. 
+
