@@ -2,12 +2,12 @@
 ## Check out my Tableau visualization titled "Arxiv Articles Overview" at public.tableau.com. 
 
 ## About:
- This work was in continuation of Python-Scrapper project. Information about physics publications  
+  This work was in continuation of Python-Scrapper project. Information about physics publications  
 obtained from that project was visualised in Tableau in order to gain better understanding of overall   
 trends in the field.
 
 ## Data Set:
- See detailed explanation of Data Set structure in separate Data_Set.md file.
+  See detailed explanation of Data Set structure in separate Data_Set.md file.  
 Uptaded versions of datasets appear from time to time on kaggle.com and can be found under the title:  
 "Physics Articles from arxiv.org"
 
